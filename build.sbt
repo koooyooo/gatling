@@ -4,7 +4,7 @@ import sbt.Keys.libraryDependencies
 enablePlugins(GatlingPlugin)
 
 organization := "com.example"
-scalaVersion := "2.13.0-M4"
+scalaVersion := "2.12.0"
 name         := "gatling"
 version      := "0.1.0-SNAPSHOT"
 
